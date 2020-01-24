@@ -20,7 +20,6 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> tiago.joao.cabaco@gmail.com
 - <i class="fa fa-github"></i> [github.com/tijoalca](https://github.com/tijoalca)
 - <i class="fa fa-phone"></i> +49 176 439 822 51
-- For more information, please contact me via email.
 
 
 
@@ -52,11 +51,12 @@ Tools {#skills}
 - git 
 - R markdown reports
 
-
-Disclaimer {#disclaimer}
+Languages {#skills}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+- English (Fluent)
+- Portuguese (Native)
+- German (A1)
 
 
 Main
@@ -145,7 +145,7 @@ University of Lisbon, Portugal
 
 2012 - 2011
 
-- Assisted ongoing research projects by doing data collection and literature review resulting in an authored publication and development of project management skills.
+- Assisted ongoing research projects by doing data collection and literature review, resulting in an authored publication and development of project management skills.
 
 
 ### Research Fellow
@@ -156,7 +156,7 @@ Lisbon, Portugal
 
 2011 - 2010
 
-- I was responsible for data collection, lab management and reporting. The project received the Foundation's award for best social sciences project.
+- Responsible for data collection, lab management and reporting. The project received the Foundation's award for best social sciences project.
 
 
 
@@ -208,5 +208,5 @@ Lisbon, Portugal
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-- Wijsen, L. D., Borsboom, D.,  *Cabaço, T.*, & Heiser, W. J. (2019).  An Academic Genealogy of Psychometric Society Presidents. **Psychometrika**, **84**(2), 562-588.
-- Almeida, J., Mahon, B. Z., Zapater-Raberov, V., Dziuba, A., *Cabaço, T.*, Marques, J. F., & Caramazza, A. (2014). Grasping with the eyes: The role of elongation in visual recognition of manipulable objects. **Cognitive, Affective, & Behavioral Neuroscience**, **14**(1), 319-335.
+- Wijsen, L. D., Borsboom, D.,  **Cabaço, T.**, & Heiser, W. J. (2019).  *An Academic Genealogy of Psychometric Society Presidents*. *Psychometrika*, *84*(2), 562-588.
+- Almeida, J., Mahon, B. Z., Zapater-Raberov, V., Dziuba, A., **Cabaço, T.**, Marques, J. F., & Caramazza, A. (2014). Grasping with the eyes: *The role of elongation in visual recognition of manipulable objects. Cognitive, Affective, & Behavioral Neuroscience*, *14*(1), 319-335.
