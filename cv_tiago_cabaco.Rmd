@@ -24,31 +24,40 @@ Contact Info {#contact}
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+- <span style = "font-size:8pt">(Legend: </span>
+<span style="font-size: 8pt; text-decoration:underline; text-decoration-color: #3491b4">Self-taught</span> 
+<span style="font-size: 8pt">/</span> 
+<span style="font-size: 8pt; text-decoration:underline; text-decoration-color: #b47d34">Mentored</span>
+<span style = "font-size:8pt">)</span>
 
-- Statistical analysis
-- Bayesian inference
-- Probabilistic programming
-- Data cleaning and pre-processing
-- Data visualization 
-- Teaching
-- Public speaking
+- - Statistical analysis
 
+- - <span style="text-decoration:underline; text-decoration-color: #b47d34">Bayesian inference</span>
 
-Programming languages {#skills}
---------------------------------------------------------------------------------
+- - <span style="text-decoration:underline; text-decoration-color: #b47d34">Probabilistic programming</span>
 
-- Highly skilled in R, Stan and LaTeX
+- - Effective communication of complex analytical concepts, including public speaking
 
-- Skilled in Bash
+- - <span style="text-decoration:underline; text-decoration-color: #3491b4">Data cleaning</span> 
+and <span style="text-decoration:underline; text-decoration-color: #3491b4">pre-processing</span>
 
-- Familiar with Python and C++
+- - <span style="text-decoration:underline; text-decoration-color: #3491b4">Data visualization</span>
 
+- <span style="font-size:10pt">**Programming Languages**</span>
 
-Tools {#skills}
---------------------------------------------------------------------------------
+- Highly skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">R</span>, <span style="text-decoration:underline; text-decoration-color: #b47d34">Stan</span> and <span style="text-decoration:underline; text-decoration-color: #3491b4">Latex</span>
 
-- Git 
-- R Markdown reports
+- Skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">Bash</span> (Linux command line)
+
+- Familiar with <span style="text-decoration:underline; text-decoration-color: #3491b4">Python</span> and <span style="text-decoration:underline; text-decoration-color: #3491b4">C++</span>
+
+<!-- Tools {#skills} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+- <span style="font-size:10pt">**Tools**</span>
+
+- <span style="text-decoration:underline; text-decoration-color: #3491b4">Git</span> (version control and collaboration) 
+- <span style="text-decoration:underline; text-decoration-color: #3491b4">R Markdown reports</span> (dynamic documentation with R)
 
 Languages {#skills}
 --------------------------------------------------------------------------------
@@ -76,10 +85,11 @@ Berlin
 
 Today - 2016
   
-- Work with a large data set (> 4.000.000 data points) and developed techniques for data pre-processing and quality assessment using R.   
-- Build computational models of decision making using probabilistic programming language Stan.
-- Developed extensive experience with hierarchical Bayesian regression techniques with a focus on scalable solutions.
-- Strong use of visualizations using R to communicate insights and assess statistical model performance. 
+- Worked with large data (millions of observations), using R tidyverse tools to program and test automated quality checking and data manipulation routines.  
+- Use probabilistic programming language Stan to flexibly build complex Bayesian computational models.
+- Applied hierarchical Bayesian regression and mixture modeling techniques to account for different aspects of how the data was structured and generated.
+- Use of high performance computing clusters and threading in order to provide scalable modeling solutions, reverting in added time to iterate over model building. 
+- Developed visualizations using ggplot in R to efficiently communicate insights and assess statistical model performance. 
 
 ### Research Trainee  
 
@@ -87,7 +97,7 @@ Psychological methods group
 
 University of Amsterdam, NL
 
-2015 - 2016
+2016 - 2015
 
 - Created, maintained and fact-checked an archival data base with historical events from the Psychometric Society, resulting in a publication. 
 - Used R to develop and deploy animated network visualizations of sequences of historical events. 
@@ -114,15 +124,15 @@ Barreiro, Portugal
 - Developed inter-disciplinary team work and project management skills by conducting youth group interventions, organizing community events and family counseling activities. 
 
 
-### Research Consultant
+<!-- ### Research Consultant -->
 
-Freelance
+<!-- Freelance -->
 
-Lisbon, Portugal
+<!-- Lisbon, Portugal -->
 
-2014 - 2012
+<!-- 2014 - 2012 -->
 
-- Consulted several research projects by supporting data analysis projects, and by conducting and translating structured interviews.
+<!-- - Consulted several research projects by supporting data analysis projects, and by conducting and translating structured interviews. -->
 
 
 ### Librarian
@@ -133,7 +143,7 @@ Lisbon, Portugal
 
 2013 - 2012 
 
-- Learned excellent communication and organizational skills, by being responsible for costumer care and for organizing the reading space and storage repositories.
+- Developed my communication and organizational skills, by being responsible for costumer care and for organizing the reading space and storage repositories.
 
 
 ### Research Assistant 
@@ -223,7 +233,7 @@ Berlin
 
 2018 - 2017
 
-- Agilized the communication between admnistration and students. 
+- Agilized the communication between administration and students. 
 
 
 ### Elder Care
