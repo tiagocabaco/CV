@@ -18,7 +18,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> tiago.joao.cabaco@gmail.com
-<!-- - <i class="fa fa-github"></i> [github.com/tijoalca](https://github.com/tijoalca) -->
+- <i class="fa fa-github"></i> [github.com/tijoalca](https://github.com/tiagocabaco)
 - <i class="fa fa-phone"></i> +49 176 439 822 51
 
 
@@ -30,9 +30,11 @@ Skills {#skills}
 <span style="font-size: 8pt; text-decoration:underline; text-decoration-color: #b47d34">Mentored</span>
 <span style = "font-size:8pt">)</span>
 
+- - R package development
+
 - - Statistical analysis
 
-- - <span style="text-decoration:underline; text-decoration-color: #b47d34">Bayesian inference</span>
+<!-- - - <span style="text-decoration:underline; text-decoration-color: #b47d34">Bayesian inference</span> -->
 
 - - <span style="text-decoration:underline; text-decoration-color: #b47d34">Probabilistic programming</span>
 
@@ -47,9 +49,9 @@ and <span style="text-decoration:underline; text-decoration-color: #3491b4">pre-
 
 - Highly skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">R</span>, <span style="text-decoration:underline; text-decoration-color: #b47d34">Stan</span> and <span style="text-decoration:underline; text-decoration-color: #3491b4">Latex</span>
 
-- Skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">Bash</span> (Linux command line)
+- Skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">Bash</span> and PostgreSQL
 
-- Familiar with <span style="text-decoration:underline; text-decoration-color: #3491b4">Python</span> and <span style="text-decoration:underline; text-decoration-color: #3491b4">C++</span>
+- Familiar with <span style="text-decoration:underline; text-decoration-color: #3491b4">Python</span>
 
 <!-- Tools {#skills} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -77,19 +79,31 @@ Tiago Cabaço {#title}
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### R Developer
+
+[Civey](https://civey.com/) 
+
+Berlin, DE
+
+Today - 2020
+
+- Responsible for maintaining and developing R packages, used daily in production to process data from millions of users and to calculate around 10.000 daily survey results, which serve as the basis for our products. 
+- Lead the development of a new feature for geographical survey analysis, resulting in an new product. 
+- Contributed to the development of bash command line tool used to configure the R environment in production, resulting in efficient and safe workflow for new releases to production.   
+
 ### Doctoral Research Fellow
 
 Humboldt-University 
 
-Berlin
+Berlin, DE
 
-Today - 2016
+2020 - 2016
   
-- Worked with large data (millions of observations), using R tidyverse tools to program and test automated quality checking and data manipulation routines.  
-- Use probabilistic programming language Stan to flexibly build complex Bayesian computational models.
+- Worked with large data (millions of observations), using R to program and test automated quality checking and data manipulation routines.  
+- Built complex Bayesian computational models using the Stan probabilistic programming language.
 - Applied hierarchical Bayesian regression and mixture modeling techniques to account for different aspects of how the data was structured and generated.
 - Use of high performance computing clusters and threading in order to provide scalable modeling solutions, reverting in added time to iterate over model building. 
-- Developed visualizations using ggplot in R to efficiently communicate insights and assess statistical model performance. 
+<!-- - Developed visualizations using ggplot in R to efficiently communicate insights and assess statistical model performance.  -->
 
 ### Research Trainee  
 
@@ -99,8 +113,8 @@ University of Amsterdam, NL
 
 2016 - 2015
 
-- Created, maintained and fact-checked an archival data base with historical events from the Psychometric Society, resulting in a publication. 
-- Used R to develop and deploy animated network visualizations of sequences of historical events. 
+- Created, maintained an archival data base with historical events from the Psychometric Society, resulting in a publication. 
+- Developed R based animated network visualizations of sequences of historical events. 
 
 
 ### Telemarketer
@@ -121,7 +135,7 @@ Barreiro, Portugal
 
 2014 - 2013
 
-- Developed inter-disciplinary team work and project management skills by conducting youth group interventions, organizing community events and family counseling activities. 
+- Developed inter-disciplinary team work and project management skills by conducting community interventional events.
 
 
 <!-- ### Research Consultant -->
@@ -143,18 +157,18 @@ Lisbon, Portugal
 
 2013 - 2012 
 
-- Developed my communication and organizational skills, by being responsible for costumer care and for organizing the reading space and storage repositories.
+- Developed my communication and organizational skills, by being responsible for costumer care and for organizing storage repositories.
 
 
-### Research Assistant 
+<!-- ### Research Assistant  -->
 
-Cognitive psychology lab
+<!-- Cognitive psychology lab -->
 
-University of Lisbon, Portugal
+<!-- University of Lisbon, Portugal -->
 
-2012 - 2011
+<!-- 2012 - 2011 -->
 
-- Assisted ongoing research projects by doing data collection and literature review, resulting in an authored publication and development of project management skills.
+<!-- - Assisted ongoing research projects by doing data collection and literature review, resulting in an authored publication and development of project management skills. -->
 
 
 ### Research Fellow
@@ -254,26 +268,26 @@ Faculty of Psychology, University of Lisbon
 
 2013 - 2009
 
-- As student body representative, I made the bridge between the students and faculty. 
+- As student body representative, I made the connection between students and faculty. 
 - I was responsible for scheduling the exams for all courses and represented the faculty in an external evaluation process. 
 
-### Disaster Relief
+<!-- ### Disaster Relief -->
 
-Faculty of Psychology
+<!-- Faculty of Psychology -->
 
-University of Lisbon, Portugal
+<!-- University of Lisbon, Portugal -->
 
-2010
+<!-- 2010 -->
 
-- Organized a Goods Collection Campaign to support Madeira's population, when it was affected by disaster floods in February 2010.
+<!-- - Organized a Goods Collection Campaign to support Madeira's population, when it was affected by disaster floods in February 2010. -->
 
 
-### Drug Addiction and Homelessness
+<!-- ### Drug Addiction and Homelessness -->
 
-Teen Challenge
+<!-- Teen Challenge -->
 
-Lisbon, Portugal
+<!-- Lisbon, Portugal -->
 
-2009 - 2006
+<!-- 2009 - 2006 -->
 
-- Volunteered at the food and syringes delivery team. Organized and conducted community activities for children and elderly people in a disadvantaged neighborhood.
+<!-- - Volunteered at the food and syringes delivery team. Organized and conducted community activities for children and elderly people in a disadvantaged neighborhood. -->
