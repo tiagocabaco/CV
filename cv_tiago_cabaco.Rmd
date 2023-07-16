@@ -56,7 +56,7 @@ Skills {#skills}
 
 <!-- - Skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">Bash</span> and PostgreSQL -->
 
-- Skilled in Bash and PostgreSQL
+- Skilled in Bash and SQL
 
 - Familiar with Python
 <!-- Tools {#skills} -->
@@ -86,11 +86,18 @@ Main
 
 Tiago Cabaço {#title}
 --------------------------------------------------------------------------------
+### About me 
+I hold a Master degree in Psychology and I develop Statistical Software using R, SQL, Python and Bash.
 
-- Statistical software development using R, SQL, Python and Bash;
-- Processing hight volumes of data to uncover insights using data.table, dplyr and ggplot2 R packages;
-- Performing statistical analysis using R and Stan;
-- Reporting and visualization using quarto documents, Latex and ggplot2 R package.
+I enjoy the challenges of processing and exploring complex data, and I use statistics to 
+uncover findings and insights.
+
+I welcome the collaboration with colleagues and I am very driven to adjust to each audience when communicating
+findings and results.
+
+Being able to dive deep into new topics and learn new technologies, is something that is very dear to me. 
+
+I am looking for an opportunity where I can use my skills to make a real difference in people's lifes and in our society. 
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -104,9 +111,9 @@ Berlin, DE
 
 Today - 2022
  
-- Use R to develop packages that use survey statistics to deliver representative poll results from non-representative samples for more then 10.000 polls per day, which are used in all of our customer facing products. 
-- Develop internal tools using R, SQL and Python, to allow other teams to interact and monitor our survey calculation system, resulting in increased delivery speed and more flexibility to meet customer's requests. 
-- Support stakeholder's decision-making on the impact and feasibility of new features, by providing data-driven insights using statistical analysis, visualizations, dashboards and dynamic reports.
+- Use R and survey statistics to collaboratively develop libraries that calculate representative poll results for more then 10.000 polls per day, using votes from millions of users, which are used in all of our customer facing products. 
+- Develop internal tools using R, SQL and Python, to allow other teams to interact with our calculation system, resulting in increased speed and flexibility to meet customer's requests. 
+- Support stakeholder's decision-making on the impact of new features, by providing data-driven insights using statistical analysis, visualizations, dashboards and dynamic reports.
 - Lead the development of a new feature that reports the daily available sample size for a data product, including its integration into a Python scheduler and a PostgreSQL data base, resulting in increased efficiency in user allocation.
 
 ### R Developer
@@ -130,8 +137,7 @@ Berlin, DE
 2020 - 2016
   
 - Worked with large data (millions of observations), using R to program and test automated quality checking and data manipulation routines.  
-- Built complex Bayesian computational models using the Stan probabilistic programming language.
-- Applied hierarchical Bayesian regression and mixture modeling techniques to account for different aspects of how the data was structured and generated.
+- Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language, to account for different aspects of how the data was structured and generated.
 - Use of high performance computing clusters and threading in order to provide scalable modeling solutions, reverting in added time to iterate over model building. 
 - Developed visualizations using ggplot in R to efficiently communicate insights and assess statistical model performance.
 
