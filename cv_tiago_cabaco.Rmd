@@ -87,6 +87,10 @@ Main
 Tiago Cabaço {#title}
 --------------------------------------------------------------------------------
 
+- Statistical software development using R, SQL, Python and Bash;
+- Processing hight volumes of data to uncover insights using data.table, dplyr and ggplot2 R packages;
+- Performing statistical analysis using R and Stan;
+- Reporting and visualization using quarto documents, Latex and ggplot2 R package.
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -99,11 +103,11 @@ Professional Experience {data-icon=laptop}
 Berlin, DE
 
 Today - 2022
-
-- Develop and maintain survey calculation services in R, that use survey statistics to deliver representative poll results from non-representative samples for more then 10.000 polls per day. 
-- Develop R tools to support internal teams on interfacing with the survey calculation system, resulting in increased delivery speed and more flexibility to meet customer's requests. 
+ 
+- Use R to develop packages that use survey statistics to deliver representative poll results from non-representative samples for more then 10.000 polls per day, which are used in all of our customer facing products. 
+- Develop internal tools using R, SQL and Python, to allow other teams to interact and monitor our survey calculation system, resulting in increased delivery speed and more flexibility to meet customer's requests. 
 - Support stakeholder's decision-making on the impact and feasibility of new features, by providing data-driven insights using statistical analysis, visualizations, dashboards and dynamic reports.
-- Lead the development of a new feature that reports the sample size available for a data product daily, including its integration into a Python scheduler and a PostgreSQL data base, resulting in increased efficiency in user allocation and product delivery speed.
+- Lead the development of a new feature that reports the daily available sample size for a data product, including its integration into a Python scheduler and a PostgreSQL data base, resulting in increased efficiency in user allocation.
 
 ### R Developer
 
@@ -113,7 +117,7 @@ Berlin, DE
 
 2022 - 2020
 
-- Contributed to the development and maintenance of R libraries used in production to process data from millions of users and to calculate more then 10.000 representative survey results daily.  
+- Contributed to the development and maintenance of R libraries used to calculate more then 10.000 representative survey results daily.  
 - Lead the development of a new feature for geographical survey analysis, resulting in an new product. 
 - Contributed to the development of bash command line tool used to configure the R environment in production, resulting in efficient and safe workflow for new releases to production.   
 
