@@ -143,25 +143,25 @@ University of Amsterdam, NL
 - Developed R based animated network visualizations of sequences of historical events. 
 
 
-### Telemarketer
+<!-- ### Telemarketer -->
 
-Yourvoice Contact Solutions lda
+<!-- Yourvoice Contact Solutions lda -->
 
-Lisbon, Portugal
+<!-- Lisbon, Portugal -->
 
-2015 - 2014
+<!-- 2015 - 2014 -->
 
-- Acquired a goal-orientation attitude and skills needed to work in a fast-paced and high pressure role, as demonstrated by being in the 'Top 5' employees for successive months.
+<!-- - Acquired a goal-orientation attitude and skills needed to work in a fast-paced and high pressure role, as demonstrated by being in the 'Top 5' employees for successive months. -->
 
-### Psychologist, intern
+<!-- ### Psychologist, intern -->
 
-Center for Family  and Parental Support
+<!-- Center for Family  and Parental Support -->
 
-Barreiro, Portugal
+<!-- Barreiro, Portugal -->
 
-2014 - 2013
+<!-- 2014 - 2013 -->
 
-- Developed inter-disciplinary team work and project management skills by conducting community interventional events.
+<!-- - Developed inter-disciplinary team work and project management skills by conducting community interventional events. -->
 
 
 <!-- ### Research Consultant -->
@@ -175,15 +175,15 @@ Barreiro, Portugal
 <!-- - Consulted several research projects by supporting data analysis projects, and by conducting and translating structured interviews. -->
 
 
-### Librarian
+<!-- ### Librarian -->
 
-Library of Psychology, University of Lisbon
+<!-- Library of Psychology, University of Lisbon -->
 
-Lisbon, Portugal
+<!-- Lisbon, Portugal -->
 
-2013 - 2012 
+<!-- 2013 - 2012  -->
 
-- Developed my communication and organizational skills, by being responsible for costumer care and for organizing storage repositories.
+<!-- - Developed my communication and organizational skills, by being responsible for costumer care and for organizing storage repositories. -->
 
 
 <!-- ### Research Assistant  -->
@@ -197,15 +197,15 @@ Lisbon, Portugal
 <!-- - Assisted ongoing research projects by doing data collection and literature review, resulting in an authored publication and development of project management skills. -->
 
 
-### Research Fellow
+<!-- ### Research Fellow -->
 
-Grant by Amadeu Dias Foundation
+<!-- Grant by Amadeu Dias Foundation -->
 
-Lisbon, Portugal
+<!-- Lisbon, Portugal -->
 
-2011 - 2010
+<!-- 2011 - 2010 -->
 
-- Responsible for data collection, lab management and reporting. The project received the foundation's award for best social sciences project.
+<!-- - Responsible for data collection, lab management and reporting. The project received the foundation's award for best social sciences project. -->
 
 
 
@@ -250,16 +250,6 @@ University of Lisbon
 Lisbon, Portugal
 
 2011 - 2009
-
-
-
-
-Publications {data-icon=file}
---------------------------------------------------------------------------------
-
-- Wijsen, L. D., Borsboom, D.,  **Cabaço, T.**, & Heiser, W. J. (2019).  *An Academic Genealogy of Psychometric Society Presidents*. *Psychometrika*, *84*(2), 562-588.
-- Almeida, J., Mahon, B. Z., Zapater-Raberov, V., Dziuba, A., **Cabaço, T.**, Marques, J. F., & Caramazza, A. (2014). Grasping with the eyes: *The role of elongation in visual recognition of manipulable objects. Cognitive, Affective, & Behavioral Neuroscience*, *14*(1), 319-335.
-
 
 
 Civic participation {data-icon=hands-helping}
@@ -317,3 +307,10 @@ Faculty of Psychology, University of Lisbon
 <!-- 2009 - 2006 -->
 
 <!-- - Volunteered at the food and syringes delivery team. Organized and conducted community activities for children and elderly people in a disadvantaged neighborhood. -->
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+- Wijsen, L. D., Borsboom, D.,  **Cabaço, T.**, & Heiser, W. J. (2019).  *An Academic Genealogy of Psychometric Society Presidents*. *Psychometrika*, *84*(2), 562-588.
+- Almeida, J., Mahon, B. Z., Zapater-Raberov, V., Dziuba, A., **Cabaço, T.**, Marques, J. F., & Caramazza, A. (2014). Grasping with the eyes: *The role of elongation in visual recognition of manipulable objects. Cognitive, Affective, & Behavioral Neuroscience*, *14*(1), 319-335.
