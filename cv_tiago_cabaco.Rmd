@@ -18,7 +18,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> tcabaco@pm.me
-- <i class="fa fa-github"></i> [github.com/tiagocabaco](https://github.com/tiagocabaco)
+- <i class="fa fa-github"></i> [github.com/tiagocabaco](https://github.com/tau31)
 - <i class="fa fa-phone"></i> +49 176 439 822 51
 
 
@@ -86,7 +86,7 @@ Main
 
 Tiago Cabaço {#title}
 --------------------------------------------------------------------------------
-### About me
+<!-- ### About me
 I hold a Master degree in Psychology and I develop Statistical Software using R, SQL, Python and Bash.
 
 I enjoy the challenges of processing and exploring complex data, and I use statistics to 
@@ -97,7 +97,7 @@ findings and results.
 
 Being able to dive deep into new topics and learn new technologies, is something that is very dear to me. 
 
-I am looking for an opportunity where I can use my skills to make a real difference in people's life and in our society. 
+I am looking for an opportunity where I can use my skills to make a real difference in people's life and in our society.  -->
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -109,7 +109,7 @@ Professional Experience {data-icon=laptop}
 
 Berlin, DE
 
-Today - 2022
+August 2023 - 2022
  
 - Use R and survey statistics to collaboratively develop libraries that calculate representative poll results for more then 10.000 polls per day, using votes from millions of users, which are used in all of our customer facing products. 
 - Develop internal tools using R, SQL and Python, to allow other teams to interact with our calculation system, resulting in increased speed and flexibility to meet customer's requests. 
