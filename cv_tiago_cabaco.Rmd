@@ -18,7 +18,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> tcabaco@pm.me
-- <i class="fa fa-github"></i> [github.com/tiagocabaco](https://github.com/tau31)
+- <i class="fa fa-github"></i> [github.com/tau31](https://github.com/tau31)
 - <i class="fa fa-phone"></i> +49 176 439 822 51
 
 
