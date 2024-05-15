@@ -65,7 +65,7 @@ Skills {#skills}
 
 - <span style="font-size:10pt">**Tools**</span>
 
-- Git (version control and collaboration)
+- git (version control and collaboration)
 - Quarto reports (dynamic documentation with R)
 - Redash (dashboard building tool)
 
@@ -103,7 +103,7 @@ Tiago Cabaço {#title}
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Senior R Developer
+### Data Scientist / Senior R Developer
 
 [Civey](https://civey.com/) 
 
@@ -111,8 +111,8 @@ Berlin, DE
 
 October 2023 - August 2022
 
-- Developed R statistical libraries used daily to transform millions of user's poll 
-answers into statistically representative results, used on all the company's costumer-facing products. 
+- Developed R statistical libraries used daily to transform millions of user's survey responses 
+into statistically representative results, used on all the company's costumer-facing products. 
 - Analyzed data from millions of users using R, PostgreSQL and Clickhouse and produced visualizations, 
 dashboards and reports to answer stakeholder's analytical requests, resulting in a better support for decisions 
 across our products.
@@ -129,7 +129,7 @@ improved understanding of our products, both internally and by other teams.
 - Trained new team members by using documentation, learning sessions, joint code reviews and 
 pair-programming.
 
-### R Developer
+### Data Scientists / R Developer
 
 [Civey](https://civey.com/) 
 
