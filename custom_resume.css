@@ -9,11 +9,11 @@
 
 :root{
   --page-width: 8.5in;
-  --margin-right: 0.25in;
+  --margin-right: 0.5in;
   --margin-left: 0.25in;
   --content-width: calc(var(--page-width) - var(--margin-right) - var(--margin-left));
   --root-font-size: 12pt;
-  --sidebar-width: 12rem;
+  --sidebar-width: 13rem;
   --sidebar-background-color: #f2f2f2;
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
@@ -95,7 +95,7 @@ img{
 .aside{
   width: var(--sidebar-width);
   padding: 0.6in var(--sidebar-horizontal-padding);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   float: right;
   position: absolute;
   right: 0;
@@ -354,7 +354,7 @@ h1, h2{
 }
 
 .aside .level2{
-  margin-top: 0.5in;
+  margin-top: 0.25in;
 }
 
 #contact ul{
@@ -370,7 +370,7 @@ h1, h2{
 }
 
 #skills{
-  line-height: 1.5;
+  line-height: 1;
 }
 
 #skills ul{

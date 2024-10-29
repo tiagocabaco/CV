@@ -5,8 +5,8 @@ date: "`r Sys.Date()`"
 output:
     pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
+        css: custom_resume.css
     self_contained: false
-    css: custom_resume.css
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
 ---
@@ -14,72 +14,48 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> tcabaco@pm.me
-- <i class="fa fa-github"></i> [github.com/tau31](https://github.com/tau31)
-- <i class="fa fa-phone"></i> +49 176 439 822 51
-
+- <i class="fa fa-phone"></i>  +49 176 439 822 51
+- <i class="fa fa-github"></i> [github.com/tau31](https://github.com/)
 
 Skills {#skills}
 --------------------------------------------------------------------------------
-<!-- - <span style = "font-size:8pt">(Legend: </span> -->
-<!-- <span style="font-size: 8pt; text-decoration:underline; text-decoration-color: #3491b4">Self-taught</span>  -->
-<!-- <span style="font-size: 8pt">/</span>  -->
-<!-- <span style="font-size: 8pt; text-decoration:underline; text-decoration-color: #b47d34">Mentored</span> -->
-<!-- <span style = "font-size:8pt">)</span> -->
 
-<!-- - - R package development -->
+- - Troubleshooting and Problem-solving
 
-- - Statistical analysis and reporting
-
-<!-- - - <span style="text-decoration:underline; text-decoration-color: #b47d34">Bayesian inference</span> -->
-
-<!-- - - <span style="text-decoration:underline; text-decoration-color: #b47d34">Probabilistic programming</span> -->
-<!-- - Probabilistic programming -->
+- - Adaptability and Quick Learning
 
 - - Effective communication of complex analytical concepts, including public speaking
 
-<!-- - - <span style="text-decoration:underline; text-decoration-color: #3491b4">Data cleaning</span>  -->
-<!-- and <span style="text-decoration:underline; text-decoration-color: #3491b4">pre-processing</span> -->
-- Data cleaning and visualization
+- - Statistical analysis and reporting
 
-<!-- - - <span style="text-decoration:underline; text-decoration-color: #3491b4">Data visualization</span> -->
-<!-- - Data visualization -->
+Tools {#skills}
+--------------------------------------------------------------------------------
+
+- <span style="font-size:10pt">**Operating Systems**</span>
+
+- MacOS
+- Linux (Ubuntu, Debian, FreeBSD)
+- Windows 10/11
 
 - <span style="font-size:10pt">**Programming Languages**</span>
 
-<!-- - Highly skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">R</span>, <span style="text-decoration:underline; text-decoration-color: #b47d34">Stan</span> and <span style="text-decoration:underline; text-decoration-color: #3491b4">Latex</span> -->
+- R, Python, SQL, Bash
 
-- Highly skilled in R. 
+- <span style="font-size:10pt">**Software tools**</span>
 
-<!-- - Skilled in <span style="text-decoration:underline; text-decoration-color: #3491b4">Bash</span> and PostgreSQL -->
-
-- Skilled in Python, Bash, Stan and SQL.
-
-<!-- Tools {#skills} -->
-<!-- -------------------------------------------------------------------------------- -->
-
-- <span style="font-size:10pt">**Tools**</span>
-
-- git (version control and collaboration)
-- Quarto reports (dynamic documentation with R)
-- Redash (dashboard building tool)
-
-<!-- - <span style="text-decoration:underline; text-decoration-color: #3491b4">Git</span> (version control and collaboration)  -->
-<!-- - <span style="text-decoration:underline; text-decoration-color: #3491b4">Quarto reports</span> (dynamic documentation with R) -->
-
-<!-- Languages {#skills} -->
-<!-- -------------------------------------------------------------------------------- -->
+- Issue Tracking with Jira
+- Dynamic Reporting with Quarto
+- Version  Control with git
 
 - <span style="font-size:10pt">**Languages**</span>
 
 - English (Fluent)
 - Portuguese (Native)
-- German (A1, studying at the A2.1 level)
-
+- German (A2, planning to take B1 exam in January 2025)
 
 Main 
 ================================================================================
@@ -87,9 +63,9 @@ Main
 Tiago Cabaço {#title}
 --------------------------------------------------------------------------------
 I am a Psychologist, with Data Science and Software Development experience, 
-looking to start my career in IT. 
+looking to start my career in IT.
 
-I am currently looking for entry-level IT helpdesk and support-like roles. 
+Currently, I am searching for entry-level IT support roles. 
 
 <!-- ### About me -->
 <!-- I hold a Master degree in Psychology and I am a Data Scientist that uses tools like R, SQL, Python and Bash. -->
@@ -104,28 +80,32 @@ I am currently looking for entry-level IT helpdesk and support-like roles.
 
 <!-- I am looking for an opportunity where I can use my skills to make a difference in people's life and in our society. -->
 
-Experience {data-icon=laptop}
+Certifications {data-icon=computer}
 --------------------------------------------------------------------------------
 
-### Student - CompTIA A+ Certification
+### CompTIA A+
 
-[CompTIA A+](https://www.comptia.org/certifications/a#overview)
+[comptia.org/certifications/a](https://www.comptia.org/certifications/a#overview)
 
-Berlin, DE 
+Remote 
 
-Today - February 2024
+Expected on 22/11/2024
 
-- Learning basic and essential IT concepts.
-- Topics include:
-    - Hardware;
+- Learning essential IT skills required for supporting and troubleshooting:
+   - Hardware;
+    - Software;
     - Mobile devices;
     - Networking;
     - Operating Systems;
-    - Troubleshooting;
     - Virtualization and Cloud Computing;
     - Security.
 
-- Planning to finish Core 1 and Core 2 exams by September 2024. 
+- Requires completion of two exams:
+    - Core 1: completed on 06/08/2024
+    - Core 2: scheduled for 22/11/2024
+
+Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
 
 ### Senior R Developer / Data Scientist
 
@@ -136,14 +116,13 @@ Berlin, DE
 October 2023 - August 2022
 
 - Developed software to perform statistical analysis of survey data from millions of users using R, Python, SQL and Bash.
-- Performed and presented analytical reports, using product and user behavior data, to stakeholders. 
+<!-- - Performed and presented analytical reports, using product and user behavior data, to stakeholders.  -->
 - Coordinated the performance monitoring of our software products, including reporting and addressing troubleshooting requests
 from other teams. 
-- Provided support on issues related software and statistical products.  
 - Configured and troubleshooted other team's systems (Linux and MacOS) to use our software products.
+- Created and extended company-wide documentation on my team's statistical and software products. 
 - Trained new team members by using documentation, learning sessions, joint code reviews and 
 pair-programming.
-- Created and extended company-wide documentation on my team's statistical and software products. 
 
 
 <!-- - Developed R statistical libraries used daily to transform millions of user's survey responses 
@@ -170,9 +149,9 @@ Berlin, DE
 
 2022 - 2020
 
-- Contributed to the development of statistical libraries for survey data analysis using R and SQL. 
+- Contributed to the development of statistical libraries for survey data analysis using R, SQL and Bash. 
 - Supported the installation of software in other team's systems to use our software products. 
-- Contributed to the development of a bash command line tool used to configure the development environment in production.
+<!-- - Contributed to the development of a bash command line tool used to configure the development environment in production. -->
 
 <!-- - Contributed to the development of R libraries used to calculate more then 10.000 representative survey 
 results daily.  
@@ -191,10 +170,10 @@ Berlin, DE
 2020 - 2016
 
 <!-- - Grant by the International Max Planck Research School on the Life Course. -->
-<!-- - Use of high performance computing clusters and threading in order to provide scalable modeling solutions, reverting in added time to iterate over model building.  -->
-- Use of high performance computing clusters and threading in order to provide scalable modeling solutions.
+- Developed Bash scripts to use of high performance computing clusters and threading in order to improve computations speed and scale. 
+<!-- - Use of high performance computing clusters and threading in order to provide scalable modeling solutions. -->
 <!-- - Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language, to account for different aspects of how the data was structured and generated. -->
-- Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language.
+<!-- - Applied hierarchical Bayesian regression and mixture modeling techniques, using the Stan probabilistic programming language. -->
 - Worked with large data (millions of observations), using R to program and perform automated quality checking and data manipulation routines.  
 <!-- - Developed visualizations using ggplot in R to efficiently communicate insights and assess statistical model performance. -->
 
@@ -218,7 +197,7 @@ Lisbon, Portugal
 
 2015 - 2014
 
-- Talked with potential customers on the phone to sell or extend their cable products. 
+- Talked with potential customers on the phone to sell or extend their TV cable products. 
 - Acquired a goal-orientation attitude and skills needed to work in a fast-paced and high pressure role, as demonstrated by being in the 'Top 5' employees for successive months.
 
 ### Psychologist, intern
@@ -291,13 +270,13 @@ Berlin
 - Grant by the International Max Planck Research School on the Life Course.
 - [Incomplete - did not graduate.]{.underline}
 
-### Erasmus Intensive Program in Mathematical Psychology
+<!-- ### Erasmus Intensive Program in Mathematical Psychology
 
 University of Tartu
 
 Sagadi, Estonia
 
-2014
+2014 -->
 
 
 ### Masters in Clinical Psychology
